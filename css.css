@@ -6,8 +6,8 @@ body{
 #container
 {
     width: 100%;
-    height: 2000px;
-    background-color: seagreen;
+    height: 2500px;
+    background-color: white;
     margin: auto;
 }
 #background_image
@@ -129,3 +129,190 @@ button:hover
     font-size: 18px;
     font-family: Georgia, 'Times New Roman', Times, serif; 
 }
+#project_body
+{
+    width: 1100px;
+    height: 989px;
+    padding-bottom: 77px;
+    padding-top: 98px;
+    margin: auto;
+    /* background-color: pink; */
+}
+#project_body_left
+{
+    width: 495px;
+    height: 989px;
+    /* background-color: #f2ae5d; */
+    float: left;
+}
+#project_body_right
+{
+    width: 495px;
+    height: 989px;
+    /* background-color:white; */
+    padding-left: 110px;
+    float: left;
+}
+.image_body
+{
+width: 495px;
+height: 250px;
+}
+#after_image_container
+{
+    padding-top: 48px;
+    /* background-color: silver; */
+    
+}
+.project_title
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25pt;
+    color: #333538;
+}
+#after_project_title
+{
+    padding-top: 25px;
+    /* background-color: silver; */
+}
+.write_project_story
+{
+    width: 495px;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #333538;
+    /* background-color: yellow; */
+}
+#after_project_story
+{
+    padding-top: 26px;
+    /* background-color: silver; */
+}
+.see_detail
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: #f46151;
+    text-decoration: none;
+}
+.see_detail:hover{
+    text-decoration: underline;
+    color: #f46151;
+}
+#next_image_container
+{
+    padding-top: 48px;
+    /* background-color: silver; */
+}
+#footer
+{
+    width: 100%;
+    height: 350px;
+    background-color: #2e2e2e; 
+    margin: auto;
+}
+#footer_center
+{
+    margin: auto;
+    width: 1100px;
+    height: 306px;
+    padding-top: 44px;
+    /* background-color: aqua; */
+}
+#newsletter
+{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #5c5d60;
+}
+#footer_LEFT
+{
+    width: 680px;
+    height: 306px;
+    /* background-color: aqua; */
+    float: left;
+}
+#footer_RIGHT
+{
+    width: 365px;
+    height: 306px;
+    /* background-color:yellow; */
+    padding-left: 55px;
+    float: left;
+}
+#after_newletter
+{
+    padding-top: 42px;
+    /* background-color: silver; */
+}
+.footer_story
+{
+    width: 650px;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.input
+{
+    width: 430px;
+    height: 40px;
+    text-align: left;
+    font-size: 18px;
+    padding-left: 10px;
+    float: left;
+}
+.button_container1
+{
+    color:#f2ae5d;
+    font-style: italic;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 15px;
+    height: 46px;
+}
+#getintouch
+{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #5c5d60;
+}
+#AFTER_getintouch
+{
+    padding-top: 35px;
+    /* background-color: silver; */
+}
+#AFTER_getintouch1
+{
+    padding-top: 30px;
+    /* background-color: silver; */
+}
+.write_email
+{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #f46151;
+    text-decoration: none;
+}
+.write_email:hover{
+    text-decoration: underline;
+    color: #f46151;
+}
+#AFTER_getintouch2
+{
+    padding-top: 26px;
+    /* background-color: silver; */
+}
+.fb_icon
+{
+    width: 24px;
+    height: 24px;
+    float: left;
+}
+.tw_icon
+{
+    width: 24px;
+    height: 24px;
+    margin-left: 12px;
+}
+
